@@ -1,4 +1,4 @@
-const apiKey = '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'
+const apiKey = 'YOUR_API_KEY'
 
 
 const submit = document.getElementById('submit')
